@@ -29,8 +29,10 @@ Tomorrow theme variations in shown in TextMate with Ruby code and the font "Menl
 * SubEthaEdit (Uses Coda Themes)
 * BBEdit
 * Ace Editor
-* IntelliJ, PHPStorm, WebStorm, RubyMine, PyCharm, etc
+* IntelliJ
 * Visual Studio
+* LightPaper
+* Peppermint -(https://github.com/osxpeppermint/peppermint-themes/tree/master/Tomorrow%20Night.ppTheme)
 
 ## Hex Palettes
 
@@ -119,3 +121,10 @@ The theme has been designed to be language independent and should look great wit
 
 ## The Future?
 I may be releasing other variations of this theme and will certainly be adding support for other more text editors/IDEs.
+
+## License
+Released under the [MIT License](https://github.com/chriskempson/tomorrow-theme/blob/master/LICENSE.md)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chriskempson/tomorrow-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
