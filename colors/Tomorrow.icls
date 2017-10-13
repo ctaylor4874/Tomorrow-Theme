@@ -1,7 +1,14 @@
 <scheme name="Tomorrow" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.25" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="LINE_SPACING" value="1.1" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="4d4d4c" />
     <option name="ANNOTATIONS_COLOR" value="0" />
@@ -9,7 +16,6 @@
     <option name="CARET_COLOR" value="4d4d4c" />
     <option name="CARET_ROW_COLOR" value="efefef" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
-    <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="HTML_TAG_TREE_LEVEL0" value="8959a8" />
     <option name="HTML_TAG_TREE_LEVEL1" value="4271ae" />
     <option name="HTML_TAG_TREE_LEVEL2" value="3e999f" />
@@ -12000,7 +12006,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="4d4d4c" />
-        <option name="BACKGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="f0f0f0" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
